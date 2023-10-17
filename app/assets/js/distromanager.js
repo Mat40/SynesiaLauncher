@@ -2,7 +2,6 @@ const { DistributionAPI } = require("helios-core/common");
 
 const ConfigManager = require("./configmanager");
 
-// Old WesterosCraft url.
 exports.REMOTE_DISTRO_URL =
   "https://synesia.fr/public/nebula/distribution.json";
 
